@@ -1,0 +1,182 @@
+<l>Keep going.</l>
+<l>Keep going.</l>
+<l>Keep going!</l>
+<l>I need to stretch my legs. I'll
+follow you.</l>
+<l>For what.</l>
+<l>That's okay, Mom. I can see it later. I'll help you unload.</l>
+<l>He looks dead.</l>
+<l>He's not breathing, Mom.</l>
+<l>This is kind of a cool place.</l>
+<l>Will you give Mom a break?</l>
+<l>Hey, Sam, we're flat broke.</l>
+<l>This room is mine.</l>
+<l>Okay. I'll flip you for it.</l>
+<l>Owwww! You little shit!</l>
+<l>You're beautiful.</l>
+<l>Nowhere.</l>
+<l>Don't you have something better
+to do than follow me around all
+night?</l>
+<l>Well, I...</l>
+<l>Well... yeah. Sure.</l>
+<l>I just wanted to... I, uh...</l>
+<l>It's early. Why do we have to
+go home?</l>
+<l>I'll hitch.</l>
+<l>Mom, just give me five more minutes.
+Just five minutes, okay?</l>
+<l>Come on, Sam, you know before
+there were malls there was 'like
+the ocean.'</l>
+<l>See you later.</l>
+<l>I'll pass.</l>
+<l>Hi...</l>
+<l>What's your name?</l>
+<l>Oh. Your folks, too, huh?</l>
+<l>Ex-hippies. My mom was one. I
+came this close to being called
+Moon Child, or Moon Beam or
+something.</l>
+<l>But Star's great. I like Star.</l>
+<l>I'm Michael.</l>
+<l>Sort of. We used to come here
+summers when I was kid. Now
+we're here on a permanent basis.</l>
+<l>Are you hungry? Wanna get
+something to eat?</l>
+<l>We still going?</l>
+<l>That's right.</l>
+<l>Star?...</l>
+<l>I can't beat a Triumph.</l>
+<l>We were gonna grab some food.</l>
+<l>Where are you guys from?</l>
+<l>I mean, where do you live?</l>
+<l>You live here? Your folks let
+you?</l>
+<l>What?...</l>
+<l>Worms!</l>
+<l>Don't! Stop!</l>
+<l>Good joke, blood.</l>
+<l>Go away.</l>
+<l>Entertain yourself.</l>
+<l>I can't remember much after the
+Chinese food that looked like
+maggots.</l>
+<l>What would that make Mom?</l>
+<l>Beat it, Nanook.</l>
+<l>No. Why?</l>
+<l>I told you it was pretty weird
+Chinese food.</l>
+<l>No.</l>
+<l>Ouch.</l>
+<l>I wouldn't have given my Mom
+such a hard time about moving
+here if I'd known I was going to
+meet you.</l>
+<l>Now you and David...</l>
+<l>Let's go see them.</l>
+<l>I'm my own man.</l>
+<l>What's going' on?</l>
+<l>Mom's home?...</l>
+<l>Oh, shit...</l>
+<l>Hi, Mom...</l>
+<l>No. I'm up.</l>
+<l>I watch him all day. The only time
+I have more myself is at night. Let
+Grandpa watch him.</l>
+<l>Okay.</l>
+<l>Big date, Grandpa?</l>
+<l>Oh, yeah. What'd you stuff for
+her? Mr. Johnson?</l>
+<l>Don't bother.</l>
+<l>Piss off.</l>
+<l>What's that?...</l>
+<l>Don't turn on the light.</l>
+<l>Nanook...</l>
+<l>Nothing! I didn't hurt him. He
+bit me! This is my blood!</l>
+<l>He was protecting you!</l>
+<l>What??</l>
+<l>Help me! Sam -- help me! I'm
+your brother!</l>
+<l>We've got to stick together, Sam.
+You've got to help me.</l>
+<l>No! We can't tell Mom!</l>
+<l>Please, Sam. Don't tell her.</l>
+<l>Just for a few days, Sam. Give me
+a chance to work this out by myself.</l>
+<l>Star?</l>
+<l>Star. I have to talk to you.</l>
+<l>I have to talk to you. Please
+wake up.</l>
+<l>When?</l>
+<l>Sure.</l>
+<l>We are...</l>
+<l>I'm tired now.</l>
+<l>Mom... please.</l>
+<l>Can't. Got plans of my own.</l>
+<l>Gotta go, Mom.</l>
+<l>Yeah. Max... right?</l>
+<l>Come in, come in. I'm inviting
+you.</l>
+<l>See ya.</l>
+<l>Where is she?!</l>
+<l>Where's Star, David?!</l>
+<l>What is this, David?</l>
+<l>I know everything.</l>
+<l>I don't know.</l>
+<l>Okay.</l>
+<l>Do you know where David took me
+tonight, Star? Do you?!</l>
+<l>That night in the cave -- that
+wasn't wine they gave me to
+drink... it was blood! David's
+blood.</l>
+<l>I'm one of them, Star! I'm just
+like them!</l>
+<l>Why not?</l>
+<l>Then it's not too late for us...</l>
+<l>I know, I've felt it...</l>
+<l>You're not going anywhere...</l>
+<l>Star.</l>
+<l>Who are you calling?</l>
+<l>Of course not!</l>
+<l>David.</l>
+<l>I'll take you there.</l>
+<l>I said, I'll take you there.
+Nobody's going near Star without
+me.</l>
+<l>Down there.</l>
+<l>Sam... if something happens to me.
+If I don't have the strength to go
+on, promise me you won't let them
+hurt Star.</l>
+<l>Star. You're coming with me.</l>
+<l>You've got to put this on.</l>
+<l>Huh?</l>
+<l>Huh?...</l>
+<l>Take him outside, Sam!</l>
+<l>No, Grandpa...</l>
+<l>They'll be coming for all of us.</l>
+<l>Sam, don't --.</l>
+<l>Duck, Sam.</l>
+<l>David!</l>
+<l>Catch!</l>
+<l>I... I don't feel any differently.</l>
+<l>Do you?</l>
+<l>I didn't invite you in this time!</l>
+<l>Get out, Mom! Run!</l>
+<l>It's gone. I feel it!</l>
+<l>Everyone accounted for?</l>
+
+<d>(beat).</d>
+<d>(very unsympathetic).</d>
+<d>(sweet self).</d>
+<d>(nasty).</d>
+<d>(softly).</d>
+<d>(beat).</d>
+<d>(mumbling).</d>
+<d>(moving away).</d>
+<d>(beat).</d>
+<d>(turning).</d>

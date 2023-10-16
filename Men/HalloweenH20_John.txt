@@ -1,0 +1,77 @@
+<l>You're so predictable.</l>
+<l>What the --.</l>
+<l>I'm sixteen, Keri. I should be
+able to live wherever I want.</l>
+<l>Okay, you win. I'll call you Mom.
+Now can I move into the dorms?</l>
+<l>Well, Dad thinks it's okay.</l>
+<l>I promise not to run off to Cancun.</l>
+<l>The dorms are only fifty feet
+away. You could practically see into my window. So, what difference does it make?</l>
+<l>All right, I was wrong. There is
+a big difference between rooming with your buddies and living with your mother and school headmaster.</l>
+<l>My life is a living hell.</l>
+<l>To the bathroom. Can I do that alone or do you want to watch?</l>
+<l>You're twisted.</l>
+<l>There you are.</l>
+<l>You tell 'em about tonight?</l>
+<l>Shelve the barf bag. It's the key
+to the main gate.</l>
+<l>Swiped it from my mom's desk
+yesterday.</l>
+<l>I borrowed it.</l>
+<l>I am in need of some serious
+partying.</l>
+<l>Why not?</l>
+<l>Molly, you're the resident
+assistant. What are you gonna do, narc on yourself?</l>
+<l>Just meet me in front of the gate
+after lights out.</l>
+<l>Don't worry... I hear he only
+kills virgins.</l>
+<l>Condoms are on aisle four...</l>
+<l>Nothing.</l>
+<l>I just went for a walk. It's no
+big deal.</l>
+<l>Or what? You're gonna shoot me?</l>
+<l>Well, maybe if you'd let me live
+in the dorms, I wouldn't have to sneak out to spend time with my friends.</l>
+<l>Just forget it...</l>
+<l>Nah, I didn't tell her where I
+went.</l>
+<l>I came to see you.</l>
+<l>Can I come in?</l>
+<l>Then you come out here.</l>
+<l>Well, I'm not going until I talk to you.</l>
+<l>You saw that Michael Meyers
+display. You've got to be pretty twisted to come up with something like that.</l>
+<l>You look kind of cold.</l>
+<l>Here, take my jacket.</l>
+<l>Better?</l>
+<l>That was classic... "Michael, nooooooo!"</l>
+<l>I'm sorry, all right? It was just
+a stupid joke.</l>
+<l>You some kind of fugitive or
+something?</l>
+<l>Now you're joking, right?</l>
+<l>Wait a minute... slow down...
+you're telling me Michael Meyers is my uncle?</l>
+<l>Any other psychotic relatives I
+should know about? Jason? Freddy Krueger?</l>
+<l>Why didn't you tell me?</l>
+<l>I don't know.</l>
+<l>He found you, didn't he?</l>
+<l>Where's Molly? She's not in her room...</l>
+<l>I'm not leaving without her.</l>
+<l>What? Where is she?</l>
+<l>Oh, God... no... not Molly.</l>
+<l>I just can't believe she's dead.</l>
+<l>Yeah, me too, Keri.</l>
+<l>Keri.... Laurie... how about if I
+just call you Mom?</l>
+
+<d>(pointing out the
+kitchen window).</d>
+<d>(whispering).</d>
+<d>(louder).</d>
+<d>(imitating Keri).</d>

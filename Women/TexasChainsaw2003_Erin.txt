@@ -1,0 +1,243 @@
+<l>No...</l>
+<l>This much.</l>
+<l>This much.</l>
+<l>That much.</l>
+<l>Morgan you ass!</l>
+<l>Well could you do it when Kemper and I are not so close together, please?</l>
+<l>You wouldn't stop.</l>
+<l>You're telling me you have batteries inside you or something?</l>
+<l>Maybe on the next pit stop.</l>
+<l>Morgan, we'll make it in time okay. In the meantime, why don't you smoke some of that yourself?</l>
+<l>We need gas?</l>
+<l>Perfect.</l>
+<l>The feeling is mutual, shithead.</l>
+<l>Of course not...we can skip right to the part where I beat the crap out of you, if you wish.</l>
+<l>I could wipe the windshield with you right now, you weak-ass little weasel!</l>
+<l>I'm sorry, Morgan.</l>
+<l>I am, I don't know what I was thinking.</l>
+<l>What the hell is that suppose to mean?</l>
+<l>Do you want me to hit you again?</l>
+<l>That might come sooner than you think.</l>
+<l>Why are you in such a hurry?</l>
+<l>Not when I tell mom and dad the real reason why you went on this trip.</l>
+<l>I was not!</l>
+<l>Hey... hey, look...</l>
+<l>Morgan, do you always just think about yourself?</l>
+<l>Money's not an option right now, Morgan.</l>
+<l>Pull over and pick her up.</l>
+<l>Hey, are you okay?</l>
+<l>Can we give you a ride?</l>
+<l>Do you live anywhere near here?</l>
+<l>Well, we could at least give you a ride. You look exhausted. Come on in, we'll take you wherever you want to go.</l>
+<l>Who... um... who killed them?</l>
+<l>Just keep driving. If she was out here then there has to be a gas station or house or something out here...It can't be that deserted.</l>
+<l>You're the one who's stoned all the time! You want me to punch you again, don't you?!</l>
+<l>I'm sorry.</l>
+<l>We need to find someone.</l>
+<l>Morgan!</l>
+<l>Morgan, I really think that Jane is a little more important than some stupid weed.</l>
+<l>So...?</l>
+<l>What?</l>
+<l>I'll come with you.</l>
+<l>That's for sure.</l>
+<l>I don't know why we're even looking out here, I mean clearly there is no one here...</l>
+<l>What the hell was she talking about in there? Who killed her friends?</l>
+<l>If we find anyone.</l>
+<l>Hey...</l>
+<l>This is unbelievable.</l>
+<l>Let's just go and call the police.</l>
+<l>Is anyone home?</l>
+<l>Somebody has to be home.</l>
+<l>Just go and get the others and I'll stay here.</l>
+<l>Yeah, I'm sure.</l>
+<l>Kemper, just go get the others. I'll be fine.</l>
+<l>Hello?</l>
+<l>We need help... Is anyone here?</l>
+<l>Hello?</l>
+<l>Hello?</l>
+<l>Hello? Is anyone here?</l>
+<l>Jesus, Kemper, you scared the shit out of me.</l>
+<l>Don't worry about it. Find everyone?</l>
+<l>Not even a phone.</l>
+<l>It doesn't seem like anyone's home.</l>
+<l>Great...</l>
+<l>Oh my god...</l>
+<l>I'm going back in there as soon as I can. I know there's a phone in there. I can feel it.</l>
+<l>Do you only think of yourself, Morgan?</l>
+<l>Knowing them, forever.</l>
+<l>I... I... I just saw something...</l>
+<l>Oh my god... It's Jane...</l>
+<l>Just put it back, Morgan.</l>
+<l>Oh my god...</l>
+<l>Their completely twisted, you know that?</l>
+<l>What were they all doing here?</l>
+<l>You guys have to check this out.</l>
+<l>We don't know... I think these people have something to do with the thing Jane was talking about in the van.</l>
+<l>That's what we think.</l>
+<l>I'm not sure... I think they went back inside the house.</l>
+<l>Not without me you're not.</l>
+<l>I need to find a phone.</l>
+<l>Look at this stuff...</l>
+<l>If only it worked.</l>
+<l>What the hell was that?</l>
+<l>Where is everybody?</l>
+<l>Hello?</l>
+<l>There's no dial tone.</l>
+<l>Someone has to be here. Why would all this shit be here?</l>
+<l>Old collectables and a broken phone.</l>
+<l>Let's just go back to the yard.</l>
+<l>Nope.</l>
+<l>Pepper, just wait, okay? He'll be out in a second. It takes a long time to tell the cops exactly where this house is located.</l>
+<l>Which is probably why he's taking so long.</l>
+<l>Pepper, I'm coming with you.</l>
+<l>I'll check upstairs. The rest of you can join Pepper. She needs all the help she can get.</l>
+<l>Andy? Andy, are you here?</l>
+<l>What the hell is going on?</l>
+<l>I'm sorry... We were only looking for a phone.</l>
+<l>Please, we need to call the police.</l>
+<l>What do we do now?</l>
+<l>Pepper's gone.</l>
+<l>What do you think I mean by gone? She isn't here!</l>
+<l>Oh, God... she could get herself killed out here!</l>
+<l>Pepper's missing.</l>
+<l>Of course she isn't here, moron!</l>
+<l>I'm gonna go look for her. Anyone coming?</l>
+<l>I'm not leaving. Not until we find Pepper and Andy, okay?</l>
+<l>I've never seen such a family with so many collectables before. Not even my grandmother could afford shit like this...</l>
+<l>Shit...</l>
+<l>Morgan?</l>
+<l>Was that you?</l>
+<l>I'm gonna look upstairs.</l>
+<l>Andy? Pepper?</l>
+<l>Open the door you guys. I know what you're doing in there... Come on... open the door!</l>
+<l>KEMPER!</l>
+<l>We have to get out of here. We need to get Morgan and get out of here.</l>
+<l>These people are fucking crazy that's what now let's go!</l>
+<l>Morgan!</l>
+<l>I don't know but if they're not at the van then god knows where the hell they might be. MORGAN!</l>
+<l>Morgan, where the hell are you, come on!</l>
+<l>Morgan! We have to get out of here, this isn't funny!</l>
+<l>Where is everybody?</l>
+<l>Bullshit! My friends were in here and I want to know what the hell you did with them!?</l>
+<l>Not until we find our friends!</l>
+<l>KEMPER!</l>
+<l>Jesus Christ, Kemper...</l>
+<l>What the hell are we suppose to do!?</l>
+<l>I wouldn't think of anything else... Kemper, what the hell are we gonna do! The van doesn't work and our friends are fucking missing!</l>
+<l>Hey...</l>
+<l>You're shitting me.</l>
+<l>No... I thought you had them.</l>
+<l>I don't think so... Everyone was with us... No one could have taken them except for --.</l>
+<l>Jane... You said Jane wasn't here when Pepper came back, right?</l>
+<l>I don't know. But wherever she is, I'm going to go look for her.</l>
+<l>Why not?</l>
+<l>Didn't you bring a flashlight?</l>
+<l>Let me see it.</l>
+<l>Okay, but let me hold the flashlight.</l>
+<l>She could be at that house but I'm not going back there.</l>
+<l>I don't know. Why the hell couldn't we find everybody, huh?</l>
+<l>She could and she couldn't have, but I'm not taking any fucking chances. I'm looking for her.</l>
+<l>Whatever you say.</l>
+<l>It's not your fault. It's not anyone's fault.</l>
+<l>I know, Kemper. Even though you didn't cause any of this, I accept your apology.</l>
+<l>Kemper...</l>
+<l>I love you.</l>
+<l>I need to find her. We need to get those keys and get the hell out of here.</l>
+<l>Come on.</l>
+<l>Let's just keep checking.</l>
+<l>We can't go anywhere in the van unless we have the keys. Now we have to find her.</l>
+<l>Who else could have them? Didn't you leave them in the ignition when we left?</l>
+<l>No one was in there after we left except Jane, and she was gone when Pepper came back. How can you explain that?</l>
+<l>Something has got to be out here.</l>
+<l>No shit. They might be there, but I'm not taking any chances. We need to find somebody else than those creeps.</l>
+<l>I don't know...</l>
+<l>Pepper? Morgan?</l>
+<l>Wait...</l>
+<l>Guys!?</l>
+<l>You don't know for sure...Andy! Pepper! Morgan!</l>
+<l>KEMPER! COME ON!</l>
+<l>Kemper...</l>
+<l>Not without you!</l>
+<l>COME ON!</l>
+<l>No...!</l>
+<l>Kemper, I'm not leaving you!</l>
+<l>SOMEBODY HELP ME!</l>
+<l>SOMEBODY! PLEASE!</l>
+<l>Hello? Somebody please help me!</l>
+<l>PLEASE!</l>
+<l>HELLO? SOMEBODY... PLEASE HELP ME!</l>
+<l>COME ON!</l>
+<l>Morgan... Morgan, we must get out of here now!</l>
+<l>Morgan...?</l>
+<l>Morgan... Morgan! Get up!</l>
+<l>Morgan!</l>
+<l>SOMEBODY! PLEASE!</l>
+<l>HELP ME!</l>
+<l>HELP ME! PLEASE!</l>
+<l>PLEASE! PLEASE HELP ME!</l>
+<l>Please help me!</l>
+<l>HE'S KILLING THEM!</l>
+<l>THE MAN... HE'S KILLING MY FRIENDS! PLEASE! HELP ME!</l>
+<l>There was a man... and he was killing all my friends... He was coming after me... With a chainsaw.</l>
+<l>I'M NOT LYING! He's in the woods with a chainsaw! He killed all of my friends!</l>
+<l>NO! Please! Please don't leave me!</l>
+<l>But he was chasing me with a chainsaw!</l>
+<l>Hi...</l>
+<l>Erin.</l>
+<l>My friends and I were on our way to Mexico... Then our van broke down.</l>
+<l>No...</l>
+<l>We went looking for help... But we didn't find anything. Are you taking me to the police station?</l>
+<l>No...</l>
+<l>I'd rather just go to the station.</l>
+<l>I just want to go to the station please.</l>
+<l>I just want to go home.</l>
+<l>I don't know.</l>
+<l>Where are we going?</l>
+<l>No... NO! GET ME OUT OF HERE!</l>
+<l>WHAT'S WRONG WITH YOU PEOPLE!?</l>
+<l>Kemper! Kemper!</l>
+<l>Kemper, we have to get the fuck out of here now!</l>
+<l>I'll help you, just get up! We need to leave, now!</l>
+<l>Oh, god, Kemper...</l>
+<l>SHIT!</l>
+<l>We need to get you out of here...</l>
+<l>I don't know... There's no way except for the front...</l>
+<l>Kemper, no! Just stay with me, okay? You're not going to leave me! Just stay the fuck awake!</l>
+<l>Shit...</l>
+<l>SHIT!</l>
+<l>Kemper, I found a way out, but you need to stand up. You need to help me.</l>
+<l>Kemper, don't do this! We need to get out of here now!</l>
+<l>COME ON!</l>
+<l>Oh, shit...</l>
+<l>WE NEED TO GO!</l>
+<l>NO! LET ME GO!</l>
+<l>No!</l>
+<l>NO!</l>
+<l>OH, GOD, NO!</l>
+<l>SOMEBODY HELP ME!</l>
+<l>HELP ME!</l>
+<l>PLEASE! OPEN THE DOOR!</l>
+<l>Just go! Please!</l>
+<l>DRIVE! PLEASE!</l>
+<l>It's a long story, I just want to go home.</l>
+<l>I dunno...</l>
+<l>Thanks... for the ride...</l>
+<l>How much longer is it?</l>
+<l>No... No thank you...</l>
+<l>I... I just want to go home.</l>
+<l>No... NO!</l>
+<l>WHY ARE YOU DOING THIS!?</l>
+<l>NO! PLEASE!</l>
+<l>PLEASE! HELP ME!</l>
+<l>NO!</l>
+<l>NO!</l>
+<l>PLEASE! STOP!</l>
+<l>GO! GO!</l>
+<d>(crying).</d>
+<d>(laughs).</d>
+<d>(huffs).</d>
+<d>(into screen).</d>
+<d>(pointing).</d>
+<d>(crying).</d>
+<d>(wipes her tears).</d>
+<d>(trying not to cry).</d>

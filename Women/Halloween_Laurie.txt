@@ -1,0 +1,128 @@
+<l>I won't.</l>
+<l>Hi, Tommy.</l>
+<l>Same time, same place.</l>
+<l>Sure.</l>
+<l>Sure.</l>
+<l>Laurie holds up a key.</l>
+<l>Just watch.</l>
+<l>Lonnie Elam probably won't get out of sixth grade.</l>
+<l>See you.</l>
+<l>I think you have too much to do tomorrow.</l>
+<l>As usual, I don't have anything to do.</l>
+<l>What's wrong, Annie? You're not smiling.</l>
+<l>Exploring uncharted territory?</l>
+<l>I thought you were baby-sitting tonight.</l>
+<l>Shit!</l>
+<l>I forgot my chemistry book.</l>
+<l>don't think so... I--.</l>
+<l>Annie, some day you're going to get all of us in deep trouble.</l>
+<l>I'm baby-sitting for the Doyles. It's only three houses away. We can keep each other company.</l>
+<l>Look.</l>
+<l>Behind that bush there.</l>
+<l>That man who drove by so fast, the one you yelled at.</l>
+<l>He was standing right here.</l>
+<l>Cute.</l>
+<l>The guys think I'm too smart.</l>
+<l>Okay. Bye.</l>
+<l>Mister Brackett...</l>
+<l>It's okay...</l>
+<l>Yes, sir. Nice seeing you.</l>
+<l>Well, kiddo, I thought you outgrew superstition.</l>
+<l>Hi, Mom, I'm home.</l>
+<l>Thanks, mom.</l>
+<l>Hello.</l>
+<l>Who is this?</l>
+<l>Hello?</l>
+<l>Annie, was that you?</l>
+<l>Why didn't you say anything? You scared me to death.</l>
+<l>I thought it was an obscene phone call.</l>
+<l>I've already lost it.</l>
+<l>Sure, see you later.</l>
+<l>Calm down. This is ridiculous.</l>
+<l>I wasn't spooked.</l>
+<l>I saw someone standing in Mr. Riddle's backyard.</l>
+<l>He was watching me.</l>
+<l>He can still watch.</l>
+<l>I brought it for Tommy. I figured making a Jack-o'-lantern would keep him occupied.</l>
+<l>Thanks.</l>
+<l>Bye.</l>
+<l>But King Arthur was always your favorite.</l>
+<l>Why are they under there?</l>
+<l>'Neutron Man'... 'Laser Man'... I can see why. 'Tarantula Man'...</l>
+<l>Hello.</l>
+<l>What's this big, big news?</l>
+<l>I'd say you must have the wrong number.</l>
+<l>Annie you didn't. Tell me you didn't.</l>
+<l>I'm so embarrassed. I couldn't face him...</l>
+<l>Annie!</l>
+<l>Hold on.</l>
+<l>There's nobody there, Tommy. Go watch some TV.</l>
+<l>After the movie.</l>
+<l>After the Jack-o'-lantern.</l>
+<l>There's no such thing.</l>
+<l>Do you believe everything that Richie tells you?</l>
+<l>Tommy, Halloween night is when you play tricks on people and scare them. It's all make believe.</l>
+<l>There was no one out there.</l>
+<l>What did he look like?</l>
+<l>We're not getting anywhere. All right, look, Tommy. The Boogeyman can only come out on Halloween night, right?</l>
+<l>And I'm here tonight and I won't let him get you.</l>
+<l>I promise.</l>
+<l>Fancy.</l>
+<l>I'm glad you're here because I have something I want you to do. I want you to call up Ben Tramer and tell him you were just fooling around.</l>
+<l>Yes, you can.</l>
+<l>Wait a minute here...</l>
+<l>Deal. Hey, I thought Paul was grounded.</l>
+<l>The old girl scout comes through again.</l>
+<l>What's wrong?</l>
+<l>Tommy, stop it! You're scaring Lindsey.</l>
+<l>I said, stop it! There is no Boogeyman. There's nothing out there. If you don't stop all this, I'm turning off the TV and you go to bed.</l>
+<l>Nobody's going to get anybody. Now stop scaring each other.</l>
+<l>Everybody has a good time tonight. Okay, kids, what do you want to do now.</l>
+<l>You've had enough. Why don't we just sit down and watch the rest of the movie.</l>
+<l>Hello.</l>
+<l>Nothing. I was just sitting down for the first time tonight.</l>
+<l>No. I thought she'd be home by now. She went to pick up Paul.</l>
+<l>They probably stopped off somewhere. Have her call me when she gets back. I've got Lindsey here and I want to know what time to put her to bed.</l>
+<l>Have a good time.</l>
+<l>Finally.</l>
+<l>Hello.</l>
+<l>Hello?</l>
+<l>All right, Annie! I've heard your famous chewing, now I get your famous squeals?</l>
+<l>Annie?</l>
+<l>Annie, Annie! Are you all right?</l>
+<l>I'll kill you if this is a joke!</l>
+<l>Annie...</l>
+<l>Annie?</l>
+<l>Hello?</l>
+<l>All right, meatheads. The joke is over.</l>
+<l>Come on, Annie, enough.</l>
+<l>This has most definitely stopped being funny. Now cut it out!</l>
+<l>You'll be sorry.</l>
+<l>Help me! Help me!</l>
+<l>Please, help me! Call the police! Please!</l>
+<l>No! No! Please, open the door!</l>
+<l>Tommy! Tommy, open the door!</l>
+<l>Tommy, let me in!</l>
+<l>Tommy, I want you to go back upstairs...</l>
+<l>Be quiet! Get Lindsey and get into the bedroom and lock the door!</l>
+<l>DO WHAT I SAY! NOW!</l>
+<l>HURRY!</l>
+<l>Please stop... Please...</l>
+<l>It's all right now. Shhh, it's all right...</l>
+<l>Now I want you to change your clothes, Tommy. We're going to take a walk outside.</l>
+<l>There's nothing to be scared of now. Get changed.</l>
+<l>I killed him.../l>
+<l>Lock the door! Lock the door!</l>
+<l>Tommy, it's me. Open the door.</l>
+<l>Now, I want you to walk to the door, down the stairs and right out the front door.</l>
+<l>Listen to me. I want you to walk down the street to the MacKensie's and knock on their door. You tell them to call the police and send them over here. Do you understand?</l>
+<l>No! Do as I say.</l>
+<l>Well, kiddo. Some Halloween...</l>
+<l>It was the Boogeyman...</l>
+<d>(sings).</d>
+<d>(sings).</d>
+<d>(excited).</d>
+<d>(into phone).</d>
+<d>(into phone).</d>
+<d>(panicked).</d>
+<d>(into phone).</d>

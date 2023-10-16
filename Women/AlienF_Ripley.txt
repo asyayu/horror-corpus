@@ -1,0 +1,186 @@
+<l>Lucky us.</l>
+<l>That's not our system.</l>
+<l>This is commercial vessel Nostromo. Registration number 180246. Do you read me.  Over.</l>
+<l>Nothing.</l>
+<l>It's not our system.</l>
+<l>Report to the mess.</l>
+<l>Turbulence.</l>
+<l>We're down.</l>
+<l>Engine room, what happened.</l>
+<l>I don't see anything. We've still got pressure.</l>
+<l>Is that it.</l>
+<l>Get started on 4 panel. I'll be down in five minutes.</l>
+<l>Fifteen to twenty hours...</l>
+<l>Working on it.</l>
+<l>Yeah.</l>
+<l>You know the answer to that.</l>
+<l>Don't worry, you'll both get what's coming to you.</l>
+<l>You're guaranteed by law that you'll get a share... Now both of you knock it off and get back to work.</l>
+<l>You ought to be able to handle the rest.</l>
+<l>If you run into trouble, I'll be on the bridge.</l>
+<l>How's it going.</l>
+<l>Have you tried putting the transmission through ECIU.</l>
+<l>I'll give it a shot.</l>
+<l>Ash, tell Dallas Mother speculates that the noise is some kind of warning.</l>
+<l>I'm going out after them.</l>
+<l>I still think we should go after them.</l>
+<l>How many.</l>
+<l>Dallas, Lambert. Can you read me.</l>
+<l>Okay.</l>
+<l>Right here.</l>
+<l>What happened to Kane. I need a clear definition.</l>
+<l>If we let it in, the ship could be infected.</l>
+<l>We've already broken every rule or quarantine. If we bring an organism on board, we won't have a single layer of defense left.</l>
+<l>I can't. If you were in my position you'd do the same.</l>
+<l>I read you. The answer is negative.</l>
+<l>Even if it's against the law.</l>
+<l>Let's call it settled.</l>
+<l>Somebody fill me in.</l>
+<l>It doesn't make sense. It paralyzes him, puts him into a coma, then keeps him alive.</l>
+<l>What's happening.</l>
+<l>What about Kane.</l>
+<l>What's the stain on his lungs.</l>
+<l>What's happening.</l>
+<l>I've got the toughest job on this ship...</l>
+<l>I have to listen to your bullshit.</l>
+<l>I'll get off your back when 12 module is fixed.</l>
+<l>Anything new.</l>
+<l>What about the Creature.</l>
+<l>Plenty. What's it mean.</l>
+<l>Is that why you let it in.</l>
+<l>While Dallas and Kane are off the ship, I'm Senior Officer.</l>
+<l>You also forgot the science division's basic quarantine law.</l>
+<l>You just broke it.</l>
+<l>By breaking quarantine procedure you risk everybody's life.</l>
+<l>This is your official position as a science officer. Not exactly out of the manual.</l>
+<l>The door is closed. It must still be in there.</l>
+<l>Yeah, I remember. We can't grab it. We can't kill it...</l>
+<l>Yeah.</l>
+<l>Where's its mouth.</l>
+<l>Let's get rid of it.</l>
+<l>That thing bled acid. God knows what it'll do when it's dead.</l>
+<l>What about Kane.</l>
+<l>I need some coffee.</l>
+<l>How could you leave that kind of decision to him.</l>
+<l>How does that happen.</l>
+<l>Since when is that standard procedure.</l>
+<l>Did you ship out with Ash before.</l>
+<l>I don't trust him.</l>
+<l>They're pretty much finished now.</l>
+<l>There are still some thing left to do.</l>
+<l>We're blind on B and C decks. Reserve power systems blown...</l>
+<l>Is that a good idea.</l>
+<l>Lock tractor beams.</l>
+<l>Retract leading struts.</l>
+<l>Everything holding together down there.</l>
+<l>Whenever he says anything you say 'right'. You know that, Brett.</l>
+<l>What do you think, Parker. Your staff just follows you around and says 'right'. Like a regular parrot.</l>
+<l>Yeah. And so will we.</l>
+<l>Christ.</l>
+<l>What's the last thing you can remember.</l>
+<l>We're on our way home.</l>
+<l>What's wrong.</l>
+<l>That means we've got another one.</l>
+<l>We can't go into hypersleep with that thing running loose. We'd be sitting ducks in the freezers. We have to kill it first.</l>
+<l>We have to catch it and eject it from the ship.</l>
+<l>First we have to find it.</l>
+<l>I've checked on the supplies. For about a week we can stay out of hypersleep.</l>
+<l>All by yourselves.</l>
+<l>There's another problem. How do we find it. There's no visual communication on B and C decks. All the screens are out.</l>
+<l>Trap it somehow.</l>
+<l>I thought I'd find you here.</l>
+<l>We've got an hour...Look I need some relief.</l>
+<l>Let me tell you something. You keep staring out there long enough, they'll be peeling you off the wall.</l>
+<l>I'm tired of talking.</l>
+<l>Give it a try anyway.</l>
+<l>What's it key on.</l>
+<l>Nothing.</l>
+<l>Hold it. I've got something.</l>
+<l>Machine's screwed up. I can't tell. Needle's spinning all over the dial.</l>
+<l>No, just confused. It's coming from below us.</l>
+<l>Okay.</l>
+<l>Back this way.</l>
+<l>I thought you fixed 12 module.</l>
+<l>Wait.</l>
+<l>It's within five meters.</l>
+<l>God damn it... hold it.</l>
+<l>Go get it. We'll go on.</l>
+<l>Nothing here.</l>
+<l>No. At its present size it's holding enough acid to tear a hole in this ship as big as this room.</l>
+<l>The only plan that's going to work is the same one we had before. Drive it into an air lock and blow it out into space.</l>
+<l>The science department should be able to help...</l>
+<l>Curious isn't it...That the Alien is an encephlepod...</l>
+<l>It's curious because lower species can't adapt as quickly as higher ones. And this one's doing very well. A real survivor. Might even have as good a chance as we do.</l>
+<l>All right. What about the temperature. What happens if we change it.</l>
+<l>That's what worries me.</l>
+<l>We didn't get him.</l>
+<l>I'll go.</l>
+<l>Air lock open.</l>
+<l>Ready.</l>
+<l>Read you clear.</l>
+<l>Dallas...Dallas...</l>
+<l>Oh my God.</l>
+<l>This puts me in command.</l>
+<l>Unless someone's got a better idea about dealing with the Alien, we'll continue with the last plan.</l>
+<l>How are our weapons.</l>
+<l>Get it.</l>
+<l>Any ideas. From you or Mother.</l>
+<l>You mean to tell me with everything we've got, we're still powerless against the Beast.</l>
+<l>I can't believe that.</l>
+<l>Go back to Mother and keep asking questions until you get some better answers.</l>
+<l>Dallas didn't leave the master computer key with you.</l>
+<l>No.</l>
+<l>I know Ash has got the key.</l>
+<l>He knows I want to check up on him...Without that key we've got no access to command priority information.</l>
+<l>Did you ever sleep with Ash?</l>
+<l>No.</l>
+<l>Ripley.</l>
+<l>Can't hear you... Repeat...</l>
+<l>Parker...</l>
+<l>Inner hatch sealed. The outer hatch is open.</l>
+<l>I don't know. Take over.</l>
+<l>You tell me.</l>
+<l>I guess the alarm went off by itself.</l>
+<l>Nobody's accusing you.</l>
+<l>Go patch him up.</l>
+<l>How much oxygen have we lost. I want an exact reading.</l>
+<l>If I could find the command computer key, I could prove it.</l>
+<l>You think I'm wrong.</l>
+<l>Thanks.</l>
+<l>Let's find out. Wire him back up.</l>
+<l>Do it.</l>
+<l>Ash let it on board. Ash let it grow inside Kane. Ash blew the warning signal.</l>
+<l>Special Order 937.</l>
+<l>That's what I want to know.</l>
+<l>What is Special Order 937.</l>
+<l>Then there's not point in talking to you. Pull the plug.</l>
+<l>Why. Why not tell us.</l>
+<l>They wanted to investigate the Alien. No matter what happened to us.</l>
+<l>How do we kill it.</l>
+<l>How.</l>
+<l>No way.</l>
+<l>We've had enough of your help.</l>
+<l>Nice try, Ash.</l>
+<l>Even if you have contempt for it.</l>
+<l>Sorry Ash. I don't buy it.</l>
+<l>He was conning us.</l>
+<l>He wasn't protecting our human lives and that's all I care about. Anyway it's done.</l>
+<l>He's right about one thing. We've got less than twelve hours oxygen left.</l>
+<l>We're not there yet.</l>
+<l>I think we should blow up the ship.</l>
+<l>We leave in the shuttle and then blow up the ship.</l>
+<l>That's all the oxygen.</l>
+<l>Now. Let's get the food, shut off the engines and get out... Jones. Where's Jones.</l>
+<l>Go look. We don't want to leave him.</l>
+<l>I'll go. You load up the food.</l>
+<l>Jones. You're in luck.</l>
+<l>Come on, Jones.</l>
+<l>God damn it, Jones. Come here.</l>
+<l>Here kitty... come here kitty...</l>
+<l>Parker. Lambert.</l>
+<l>What did it do.</l>
+<l>I'll get you out of there... We'll get up the autodoc.</l>
+<l>What can I do.</l>
+<l>Mother, I've turned all the cooling units back on.</l>
+<l>I should reach the frontier in another five weeks. With a little luck the network will pick me up... This is Ripley, W564502460H, executive officer, last survivor of the commercial starship Nostromo signing off.</l>
+<l>Come on cat.</l>

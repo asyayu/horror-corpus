@@ -1,0 +1,58 @@
+<l>No, they broke up again. Bailey won't stop drinking and Sarah can't take it anymore.</l>
+<l>No, he quit - the whole God thing - he has issues. The previews for next week...</l>
+<l>Hold up... someone's calling.</l>
+<l>Chi Omega House.</l>
+<l>Yes.</l>
+<l>Cici. Who's this?</l>
+<l>Ted? Where are you? Are you drinking? Hold on.</l>
+<l>Teddy's on the other line. He sounds drunk. I'll call you back.</l>
+<l>I won't.</l>
+<l>Alright, alright... I'll call you back.</l>
+<l>Okay, Ted, you sound loaded. What's up?</l>
+<l>Oh, I'm sorry. My bad. I thought you were someone else.</l>
+<l>Who do you want to speak with? Nobody's here.</l>
+<l>We're co-sponsoring the Acid Rain mixer at the Sig Ep. house tonight.</l>
+<l>I'm designated driver. I have to be here in case a sister calls and needs a ride.</l>
+<l>"Drink with your brain." That's our motto. Who are you calling for?</l>
+<l>What if I said goodbye?</l>
+<l>Why do you always answer a question with a question?</l>
+<l>I'm impatient. Look, do you wanna leave a message for someone?</l>
+<l>Hello? Hello? Where'd you go?</l>
+<l>Just a second.</l>
+<l>Yes?</l>
+<l>No, some creep asshole trying to scare me.</l>
+<l>Shit.</l>
+<l>I heard a noise.</l>
+<l>Upstairs.</l>
+<l>Shit.</l>
+<l>Hello? Hello?</l>
+<l>Stop it...</l>
+<l>I don't think I'm alone.</l>
+<l>I'm outta here.</l>
+<l>Outside.</l>
+<l>Hey, you? HELLO? HELLO?</l>
+<l>There's something going on at the Delta Zeta's. I'm gonna walk down.</l>
+<l>What? I can't hear you...</l>
+<l>I'm losing you.</l>
+<l>Okay, okay. I'll call now. I'll call you back.</l>
+<l>Hello, I'm calling from the Chi Omega...</l>
+<l>Shit.</l>
+<l>I'm calling...</l>
+<l>I'm calling from the Chi Omega house. Someone is harassing me. Hello?</l>
+<l>Shit!</l>
+<l>Jesus, you scared me. What are you doing here?</l>
+<l>I thought you were going to the mixer?</l>
+<l>Just some asshole trying to scare me.</l>
+<l>Hello?</l>
+<l>Where are you?</l>
+<l>They're at Grogs.</l>
+<l>I'll go. I don't mind. Really.</l>
+<l>Hello? Ted?</l>
+<l>WHAAAATT?</l>
+<l>Hello?</l>
+<d>(on phone).</d>
+<d>(she clicks over).</d>
+<d>(clicks over.</d>
+<d>(calling out).</d>
+<d>(soft whisper).</d>
+<d>(calling out to him).</d>

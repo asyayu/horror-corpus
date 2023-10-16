@@ -1,0 +1,114 @@
+<l>I’ll never get used to this.</l>
+<l>A public display of affection is considered rude in Japan.</l>
+<l>What’s that?</l>
+<l>Yeah, but I’ve never seen this before.</l>
+<l>It’s a Buddhist ritual. The incense smoke carries the prayers to the spirits of his ancestors, to help them remain at peace.</l>
+<l>It’s not trivia. It’s what they believe. And it’s far better, by the way, than your little pollution ritual.</l>
+<l>What?</l>
+<l>Oh, crap --.</l>
+<l>C’mon, you’re gonna be late.</l>
+<l>Uh-uh. Seven years of bad luck. And I might have a vested interest in those years.</l>
+<l>Maybe.</l>
+<l>I’ll call you when I get home.</l>
+<l>I just came by to pick up some books I left here. I’m not scheduled to work today --.</l>
+<l>Just a test to study for. Why?</l>
+<l>What’s this phrase?</l>
+<l>Hello? Mrs. Williams?</l>
+<l>Is anyone here?</l>
+<l>Oh my God... are you alright? --.</l>
+<l>Okay, Emma. Let’s try again: my name is Karen. Do you remember? I’m from the Health Center. I’m substituting for Yoko, just for today.</l>
+<l>Looks like you need a new Band-Aid. How’d this happen, Emma?</l>
+<l>Would you like a bath? Maybe that will help you feel better.</l>
+<l>It’s okay, Emma.</l>
+<l>Nice one, Karen.</l>
+<l>How did you get up there?</l>
+<l>Hello?</l>
+<l>Yes, he was shut in a closet! There was tape around the -- No, they’re not home yet. I don’t know, Emma hasn’t said a word to me -- He’s still upstairs -- yes, I’m sure he’s Japanese -- But -- Yes, alright, Alex. Just please get here as soon as you can.</l>
+<l>Hello there.</l>
+<l>My name is Karen. What’s yours?</l>
+<l>Emma, who were you talking to?</l>
+<l>You should get some rest, Emma.</l>
+<l>I’m not even sure what did happen.</l>
+<l>No, that’s not what I mean...</l>
+<l>That house. There was something...</l>
+<l>Is that how they said she died?</l>
+<l>I don’t think I’ll ever be ready for something like that.</l>
+<l>Why don’t you find out when I can heck out of here.</l>
+<l>Okay. Tired.</l>
+<l>Three months. I needed a social welfare credit.</l>
+<l>Yes.</l>
+<l>Did you find him?</l>
+<l>Yes, that’s right. He was... holding a cat. A black cat. There was a book in the closet, too. I think it was a journal.</l>
+<l>I don’t think so. I think it belonged to a woman.</l>
+<l>The writing. It looked feminine.</l>
+<l>I left it on the kitchen table.</l>
+<l>I asked him his name. He said ‘Toshio’.</l>
+<l>This is him. This is the boy.</l>
+<l>Yes. Positive.</l>
+<l>Detective Nakagawa?</l>
+<l>The whole time I was in that house, I felt something was... wrong.</l>
+<l>What happened there?</l>
+<l>Toshio...</l>
+<l>Why didn’t you tell me?</l>
+<l>About the bodies they found in the attic.</l>
+<l>The same thing happened three years ago, Doug. To a Japanese family, who lived in that house. They were all found dead.</l>
+<l>How would you explain it?</l>
+<l>-- trip over the curb and sprain your ankle.</l>
+<l>Okay. Then explain this: when I went to that house, I didn’t know anything about its past. But yet I still saw...</l>
+<l>Emma and I were alone in that room, but -- there was something else there. I’m sure of it.</l>
+<l>You might be right, Doug. But I know what I saw. I think I know what I saw...</l>
+<l>Yeah.</l>
+<l>You’ve got class, and I’m sure I only have to fill out a few forms or something --.</l>
+<l>I’m fine, Doug. Really.</l>
+<l>That’s the boy who was there yesterday. In that house. But this boy, he’s -- he’s supposed to be dead.</l>
+<l>I saw him, Doug. I talked to him. He told me his name. A boy who was killed by his father three years ago told me his name.</l>
+<l>You don’t believe me.</l>
+<l>Hello?</l>
+<l>What?</l>
+<l>Alex and Yoko are dead.</l>
+<l>There’s something wrong with that house, Doug. Something really bad.</l>
+<l>The boy in that house, he had a photo of this man. He died on that same day three years ago. I need to talk to his wife... widow. If I can find out what happened, or if... maybe --.</l>
+<l>You don’t understand. I have to, Doug.</l>
+<l>Because I’ve been inside that house, Doug. Don’t you get it? I’ve been inside!</l>
+<l>I love you. But I have to go.</l>
+<l>I’m looking for Maria Kirk?</l>
+<l>My name is Karen Davies. I’m a student at -- I’m sorry to bother you, but I was wondering if I could ask you a few questions.</l>
+<l>Ms. Kirk?</l>
+<l>I’m here because... I need to speak with you about your husband.</l>
+<l>Maria --.</l>
+<l>I just need a couple minutes.</l>
+<l>Your husband, Peter. Three years ago he...</l>
+<l>He killed himself.</l>
+<l>I’m... sorry.</l>
+<l>I didn’t.</l>
+<l>I think there’s a connection between your husband’s death and something that happened to me.</l>
+<l>It’s... hard to explain.</l>
+<l>Look, I know this sounds strange, but... I don’t think your husband wanted to die.</l>
+<l>If that’s true, then why are you still here in Japan?</l>
+<l>Did you know a woman named Kayako?</l>
+<l>Did Peter?</l>
+<l>Maybe it was someone he worked with?</l>
+<l>Please. I don’t know what else to do. Please help me.</l>
+<l>Oh my God.</l>
+<l>Excuse me, I need to speak with Detective Nakagawa.</l>
+<l>It’s an emergency.</l>
+<l>Yes, I have important information for him about a case...</l>
+<l>His partner, Detective Igarashi? Can I speak with him?</l>
+<l>They’re dead, aren’t they?</l>
+<l>Doug?</l>
+<l>No.</l>
+<l>Doug! Where are you???</l>
+<l>Doug???</l>
+<l>Oh my God...</l>
+<l>No more... please, no more...</l>
+<l>DOUG! NO!!!</l>
+<d>(shaking her head).</d>
+<d>(nervous).</d>
+<d>(nodding).</d>
+<d>(nodding).</d>
+<d>(heard it before).</d>
+<d>(then, faltering).</d>
+<d>(almost a whisper).</d>
+<d>(intense).</d>
+<d>(almost ashamed).</d>
+<d>(under her breath).</d>

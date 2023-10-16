@@ -1,0 +1,161 @@
+<l>Daddy?</l>
+<l>I got through.</l>
+<l>I found a room.</l>
+<l>I said: I found a room.</l>
+<l>No Dad.</l>
+<l>YOU'D like my room.</l>
+<l>No, no. Not just yet. It needs ... er ... some work.</l>
+<l>I'm not going to change my mind, Dad.</l>
+<l>Great.</l>
+<l>Maybe tomorrow. I got to go look for a job.</l>
+<l>I love you too.</l>
+<l>Hi.</l>
+<l>Not much.</l>
+<l>Dad?</l>
+<l>Big house.</l>
+<l>Me like.</l>
+<l>Is Julia here?</l>
+<l>Surprise.</l>
+<l>O.K. I'll be nice. You get on with the muscle work. I'll make myself some coffee.</l>
+<l>Shit! Shit!</l>
+<l>Sure.</l>
+<l>Have you got a towel?</l>
+<l>Hi. I got soaked.</l>
+<l>Which is where?</l>
+<l>Did Dad tell you I got a room, by the way? Waterloo. Centre of the known universe.</l>
+<l>What's happening?</l>
+<l>Where's my father?</l>
+<l>Sure.</l>
+<l>What happened?</l>
+<l>Sure.</l>
+<l>I've forgotten.</l>
+<l>That's right. Cointreau.</l>
+<l>I won't be able to stand.</l>
+<l>Just upstairs.</l>
+<l>I AM house-trained.</l>
+<l>I know.</l>
+<l>Hello?</l>
+<l>Oh, it's you.</l>
+<l>I'm here.</l>
+<l>I'm coming!</l>
+<l>Sleep well.</l>
+<l>You know I do know the way home.</l>
+<l>Not that late.</l>
+<l>All right.</l>
+<l>No. That's nice.</l>
+<l>What do we do if there isn't?</l>
+<l>Yeah, there's room. And there's Julia.</l>
+<l>She's so damn ... English.</l>
+<l>Oh, I don't know. Up-tight. Frigid.</l>
+<l>There ya go.</l>
+<l>I beg your pardon?</l>
+<l>Oh no?</l>
+<l>It's not what I heard.</l>
+<l>In a moment.</l>
+<l>You keep your --.</l>
+<l>Oh. Hi.</l>
+<l>I don't finish till twelve.</l>
+<l>I just wanted to be sure you were O.K.</l>
+<l>Yeah.</l>
+<l>I love you too.</l>
+<l>Maybe you should give it some time.</l>
+<l>She's not like Mom. She's ... I don't know ... moody. I thought that was what you liked about her.</l>
+<l>I don't know her. She's so ... sealed up.</l>
+<l>Really?</l>
+<l>What?</l>
+<l>Sure.</l>
+<l>Oh my God.</l>
+<l>Julia!</l>
+<l>Keep your fucking distance. Julia! Where's Julia? Christ, what have you done with her.</l>
+<l>No.</l>
+<l>No.</l>
+<l>No. Get the fuck off me.</l>
+<l>Don't touch me. Or so help me --.</l>
+<l>This isn't happening.</l>
+<l>No.</l>
+<l>You want it?</l>
+<l>This isn't happening.I think so.</l>
+<l>I think so.</l>
+<l>Tender.</l>
+<l>I want to speak to my father ...</l>
+<l>Why not?</l>
+<l>Um.</l>
+<l>Sure.</l>
+<l>He's probably got a meeting. I called a friend of mine. He's coming; is that O.K.?</l>
+<l>Where the hell did you come from?</l>
+<l>It's just a puzzle box.</l>
+<l>Who are you?</l>
+<l>Well, I didn't mean to open that thing. You can go back wherever you came from.</l>
+<l>This isn't for real.</l>
+<l>Don't touch me!</l>
+<l>Steve. Thank God you came.</l>
+<l>These THINGS ... they want to take me --.</l>
+<l>No!</l>
+<l>Don't let them take me, Steve --.</l>
+<l>Please go, Steve.</l>
+<l>Just go. PLEASE. I'll be O.K. I'm going to go see Dad. He'll look after me --.</l>
+<l>Will you GO, damn you?</l>
+<l>Sure. Why not?</l>
+<l>'Bye.</l>
+<l>Let me alone, will you?</l>
+<l>Wait!</l>
+<l>You did this before, right?</l>
+<l>To a man called Frank Cotton?</l>
+<l>But he escaped you.</l>
+<l>HE did. I've seen him. He's alive.</l>
+<l>I'll take you to him. Then you take him instead of me. Back wherever you come from.</l>
+<l>Please! Dad! It's me! It's Kirsty!</l>
+<l>Please, answer me! Please --.</l>
+<l>Where's Daddy?</l>
+<l>I have to see my father.</l>
+<l>I was here this afternoon.</l>
+<l>I saw everything.</l>
+<l>Oh God. Thank God. I thought something might have ...</l>
+<l>No. You don't understand. Your brother - Frank - he's here in the house. And he's --.</l>
+<l>Finished?</l>
+<l>Gone?</l>
+<l>I don't believe it.</l>
+<l>I want to see.</l>
+<l>Yes!</l>
+<l>I have to get out.</l>
+<l>I can't stay.</l>
+<l>Oh my God.</l>
+<l>What are you doing here?</l>
+<l>God --.</l>
+<l>Go on. Kill me. I don't care.</l>
+<l>You bastard.</l>
+<l>Frank.</l>
+<l>What took you so long?</l>
+<l>We have to get out of here. They'll kill us for the fun of it.</l>
+<l>Julia?</l>
+<l>Don't!</l>
+<l>Shit. Shit. Shit.</l>
+<l>Not tonight.</l>
+<d>(barely audible).</d>
+<d>(pained).</d>
+<d>(hastily).</d>
+<d>(mouths the word).</d>
+<d>(from kitchen).</d>
+<d>(giggles).</d>
+<d>(calls down).</d>
+<d>(calls down).</d>
+<d>(lightly).</d>
+<d>(smiles).</d>
+<d>(lightly).</d>
+<d>(imitates his tone).</d>
+<d>(sees Steve).</d>
+<d>(smiles).</d>
+<d>(on phone).</d>
+<d>(on phone).</d>
+<d>(skirting her real feelings).</d>
+<d>(shouts).</d>
+<d>(breathless).</d>
+<d>(smiles).</d>
+<d>(shakes her head).</d>
+<d>(almost crying).</d>
+<d>(stepping inside).</d>
+<d>(she starts to sob).</d>
+<d>(tears in her eyes).</d>
+<d>(mouths).</d>
+<d>(a whisper).</d>
+<d>(quietly).</d>

@@ -1,0 +1,204 @@
+<l>'Morning.</l>
+<l>It's getting there.</l>
+<l>Huh?</l>
+<l>Oh... uh, no, just some milk, Mom.</l>
+<l>Yeah, I'm fine. Just really hot upstairs.</l>
+<l>Dad's fixin' something again. Hit the deck!</l>
+<l>So, school going alright?</l>
+<l>Okay, I guess.</l>
+<l>Yeah, you know how it is...</l>
+<l>That's Lisa - I gotta get to school.</l>
+<l>your timing was perfect - I was getting the third degree in there.</l>
+<l>Ah, nothing.</l>
+<l>Look at this car. Are you kidding?</l>
+<l>Yeah, I'm fine.</l>
+<l>Knit this, Grady.</l>
+<l>How much longer you figure he'll keep us out here?</l>
+<l>Get outa here.</l>
+<l>What about it?</l>
+<l>She's a neighbor, I drive her to school.</l>
+<l>You got a problem with me, Grady?</l>
+<l>Not too far. My folks bought a place over on Elm Street.</l>
+<l>Yeah, why?</l>
+<l>What the hell are you talking about?</l>
+<l>You're full of shit.</l>
+<l>Hi! You didn't have to wait.</l>
+<l>Yeah, yeah, sure.</l>
+<l>Who, Grady? Grady's alright, he's just a hothead.</l>
+<l>Yeah.</l>
+<l>Grady?</l>
+<l>It better be you, you son of a bitch!</l>
+<l>Holy shit...</l>
+<l>Holy shit...</l>
+<l>Dad!</l>
+<l>DAD!</l>
+<l>No. I'm okay.</l>
+<l>Really. Just a bad dream.</l>
+<l>Just out for a while.</l>
+<l>Oh, come on Dad...</l>
+<l>Hi.</l>
+<l>No, that's okay. I was just...unpacking.</l>
+<l>Yeah?</l>
+<l>There's a box of sweaters over there if you want to put them up in the closet.</l>
+<l>You know her?</l>
+<l>Traumas of a ten-year old.</l>
+<l>That's typical. I hope she didn't expect to make the best seller list with this thing.</l>
+<l>That's it? Wait, she skipped a week.</l>
+<l>Something Grady told me today about the people that lived here last. Girl went crazy - saw her boyfriend killed in the house across the street...</l>
+<l>Okay...</l>
+<l>Are you sure?</l>
+<l>I'll walk you downstairs.</l>
+<l>It's not the gas, Dad!</l>
+<l>Well it sure isn't leaky gas pipes.</l>
+<l>What are you talking about?</l>
+<l>I don't have to listen to this!</l>
+<l>What do you want?</l>
+<l>Why did it take them five years to sell this house, Dad?</l>
+<l>And you don't know anything about a murder across the street and a crazy girl who lived here - who saw the whole thing?</l>
+<l>Did they tell you she went totally out of her mind - that they had to put her away? And that her mother killed herself in our living room?</l>
+<l>Only it was more like, you know, sleepwalking. All I know is I woke up on the cellar floor next to it.</l>
+<l>Forget about going back to sleep after that. I was up all night. I finished reading this. It gets real crazy towards the end, after all the death stuff. But then she said something really freaky - about her mother taking her down to the basement to show her the glove.</l>
+<l>That's when she started talking about Fred Krueger.</l>
+<l>Fred Krueger. The guy in her dream who's coming to kill her. Seems he was a real guy, ten years before who went around kidnapping kids and killing them.</l>
+<l>I may be late. Baseball practice!</l>
+<l>It was okay.</l>
+<l>My Dad. He played in the minors for a while, when he got out of college.</l>
+<l>Schneider shouldn't have called you out on that double.</l>
+<l>Schneider's always got a stick up his ass.</l>
+<l>You remember your dreams, Grady?</l>
+<l>Sorry. Schneider id it to me again.</l>
+<l>What's all this.</l>
+<l>Like a haunted house, right? I don't believe in ghosts.</l>
+<l>Yeah, I know... synapses neurong...</l>
+<l>I don't know - into the air I suppose.</l>
+<l>I don't know.</l>
+<l>Where are we going?</l>
+<l>What is this place?</l>
+<l>What's this?</l>
+<l>What do you mean?</l>
+<l>Any ghosts in here?</l>
+<l>Well, what am I supposed to do?</l>
+<l>I feel like a jerk.</l>
+<l>Uh-uh.</l>
+<l>Disappointed?</l>
+<l>About not finding any bogey men?</l>
+<l>Yeah?</l>
+<l>Now, there's an idea we can take off on. Maybe we should drive out to the beach tonight and lay out a couple of blankets and... Until I fall asleep.</l>
+<l>Nancy went bonkers from this thing. You wouldn't be afraid of being out on the beach with a potential lunatic?</l>
+<l>Whoa!</l>
+<l>I don't know - a sharp pain.</l>
+<l>It's gone now.</l>
+<l>No... Oh God, no...</l>
+<l>No!!!</l>
+<l>I'm not taking drugs, Dad.</l>
+<l>Can I go to bed now?</l>
+<l>I'm okay. Just leave me alone.</l>
+<l>I'm fine. Nothing's wrong.</l>
+<l>yeah, I had a bad night.</l>
+<l>My Dad thinks I'm on drugs, my Mom thinks I'm crazy and I'm not sure I don't agree with her.</l>
+<l>Oh God.</l>
+<l>Oh Jesus. I'm gonna be sick.</l>
+<l>I'm not hungry.</l>
+<l>There's nothing to figure out.</l>
+<l>Shut up, Grady.</l>
+<l>It's late... go back to sleep.</l>
+<l>Morning.</l>
+<l>Fine.</l>
+<l>Be out in a minute.</l>
+<l>I think I better go. I'm just not into it tonight. I'm sorry.</l>
+<l>Will you leave me alone? Please.</l>
+<l>What are you gonna do? How are you gonna help? I'm losing my mind. I don't want to have you watch me fall apart.</l>
+<l>I'm afraid to go to sleep, I'm afraid to stay awake - I'm ruining your party. They're gonna put me away for sure.</l>
+<l>I'll see you.</l>
+<l>I'm sorry...</l>
+<l>You gotta let me stay here tonight, Grady.</l>
+<l>Listen to me, Grady, this is serious. Something really weird is happening. It started out like just bad dreams but it's getting real bad.</l>
+<l>I killed Schneider, Grady...</l>
+<l>Only it wasn't me - I was there but it was like something inside of me, moving me around. Then last night it made me go into my sister's room and tonight, with Lisa in the cabana. We were... on the floor - I felt it happening again.</l>
+<l>It wanted me to kill them, Grady!</l>
+<l>I'm scared, Grady. I know it sounds crazy. But, there's something trying to get into my body.</l>
+<l>Look, I don't care if you believe me or not...</l>
+<l>No!</l>
+<l>I don't know - everything's all mixed up.</l>
+<l>What difference does it make? I'm in trouble here. I need your help.</l>
+<l>Just watch me. If anything weird happens - like if I start dreaming weird or try to walk out of here, you gotta try to bring me out of it. his me over the head if you have to. Just don't let me leave.</l>
+<l>And Grady...</l>
+<l>Don't fall asleep!</l>
+<l>Grady?</l>
+<l>It's happening again.</l>
+<l>No!</l>
+<l>No! No! No!</l>
+<l>You son of a bitch! You killed him!</l>
+<l>I killed him! I killed him!/l>
+<l>I killed Grady. I killed Grady, Lisa. I killed Schneider. Oh my God, he's inside me...</l>
+<l>he's just waiting to take me. When I sleep.</l>
+<l>Fred Krueger.</l>
+<l>He's been trying to get hold of me, to use me. He needs me to get out of his world into ours... He's gonna take me again.</l>
+<l>No! Christ, how can I make you understand? He tried to make me kill Angela last night! Look at the blood on my hands!</l>
+<l>Oh, God. I did that to Grady...</l>
+<l>He owns me.</l>
+<l>Oh, God, he's coming back!</l>
+<l>Get out of here, Lisa!</l>
+<l>I can't!</l>
+<l>Hi.</l>
+<l>What's so funny?</l>
+<l>I can't believe we actually --.</l>
+<d>(mumbles).</d>
+<d>(yawns).</d>
+<d>(shrugs).</d>
+<d>(gratefully).</d>
+<d>(preposterously).</d>
+<d>(flipping him the bird).</d>
+<d>(sighs wearily).</d>
+<d>(with a nervous laugh).</d>
+<d>(surprised to see her).</d>
+<d>(laughs).</d>
+<d>(hoarse whisper).</d>
+<d>(petrified).</d>
+<d>(near tears).</d>
+<d>(screaming).</d>
+<d>(begging).</d>
+<d>(embarrassed).</d>
+<d>(pleasantly surprised).</d>
+<d>(mortified.)</d>
+<d>(cynically).</d>
+<d>(another couple of pages).</d>
+<d>(reading).</d>
+<d>(reading).</d>
+<d>(reading).</d>
+<d>(nodding; covering).</d>
+<d>(nods).</d>
+<d>(more intense).</d>
+<d>(finally).</d>
+<d>(a beat).</d>
+<d>(calling after her).</d>
+<d>(laughs).</d>
+<d>(cautiously).</d>
+<d>(indicating the books).</d>
+<d>(confused).</d>
+<d>(a beat)</d>
+<d>(calling).</d>
+<d>(still concentrating).</d>
+<d>(shakes his head).</d>
+<d>(a beat).</d>
+<d>(suggestively).</d>
+<d>(winks).</d>
+<d>(holding his stomach).</d>
+<d>(screaming).</d>
+<d>(pleading).</d>
+<d>(staring straight ahead).</d>
+<d>(himself again).</d>
+<d>(breaking down).</d>
+<d>(choked).</d>
+<d>(nods).</d>
+<d>(frustrated).</d>
+<d>(shakes his head).</d>
+<d>(suddenly angry).</d>
+<d>(backing away from the body).</d>
+<d>(screaming toward the mirror).</d>
+<d>(hyperventilating).</d>
+<d>(weeping now).</d>
+<d>(psychotically).</d>
+<d>(suddenly coherent, realizing)</d>
+<d>(panicking).</d>
+<d>(painfully).</d>

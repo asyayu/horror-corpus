@@ -1,0 +1,207 @@
+<l>Billy? What the...</l>
+<l>What are you doing here?</l>
+<l>My dad's in the other room.</l>
+<l>Can you knock?</l>
+<l>No you didn't.</l>
+<l>..out at the airport...</l>
+<l>Got it.</l>
+<l>Have a good trip.</l>
+<l>What are you doing here?</l>
+<l>Now that it's out of your system.</l>
+<l>Oh it did?</l>
+<l>So you thought you could sneak in my window and we would have little bump-bump.</l>
+<l>Time to go, stud bucket.</l>
+<l>You know what my dad will do to you?</l>
+<l>I appreciate the romantic gesture.</l>
+<l>Would you settle for a PG-13 relationship?</l>
+<l>Get outa here.</l>
+<l>What happened?</l>
+<l>No way.</l>
+<l>Casey Becker? She sits next to me in English.</l>
+<l>Do they know who did it?</l>
+<l>They think it's school-related?</l>
+<l>Sheriff Burke. Dewey.</l>
+<l>Good.</l>
+<l>How do you gut someone?</l>
+<l>Hey, Stu? Didn't you use to date Casey?</l>
+<l>You sure I can stay over? My dad won't be back til Sunday.</l>
+<l>Tell your mom I said thanks.</l>
+<l>Uh-huh, it's just... you know, the police and reporters...it brings it all back.</l>
+<l>Thanks, Tatum.</l>
+<l>It's past seven.</l>
+<l>I'm not worried.</l>
+<l>Whatever. Just hurry.</l>
+<l>Tatum?</l>
+<l>Hi. Who is this?</l>
+<l>I have no idea.</l>
+<l>Aha, Randy, you gave yourself away. Are you calling from work? Tatum's on her way over.</l>
+<l>I like that thing you're doing with your voice, Randy. It's sexy.</l>
+<l>Don't start. You know I don't watch that shit.</l>
+<l>Because they're all the same. It's always some stupid killer stalking some big breasted girl - who can't act - who always runs up the stairs when she should be going out the front door. They're ridiculous.</l>
+<l>That is so unoriginal. You disappoint me, Randy.</l>
+<l>So who are you?</l>
+<l>So where are you?</l>
+<l>Why would you call me from my front porch?</l>
+<l>Oh yeah? Well I call your bluff.</l>
+<l>So where are you?</l>
+<l>Can you see me right now?</l>
+<l>What am I doing?</l>
+<l>Good try, Randy. Tell Tatum to hurry. Bye now.</l>
+<l>FUCK YOU! YOU CRETIN!</l>
+<l>Oh Billy... Please... God...</l>
+<l>He's here. He's trying to kill me...</l>
+<l>..yeah...</l>
+<l>It's okay. She was supposed to pick me up.</l>
+<l>Did you reach my Dad?</l>
+<l>At the airport.</l>
+<l>I don't know. I guess.</l>
+<l>It's okay, Tatum. She's just doing her job. Right, GALE?</l>
+<l>How's the book?</l>
+<l>I'll look for it.</l>
+<l>Any word on my Dad?</l>
+<l>Just another sleepover at the Riley's.</l>
+<l>No, nothing's like it used to be.</l>
+<l>He was there, Tatum.</l>
+<l>My Dad?</l>
+<l>It's alright. I'll get it.</l>
+<l>Hello?</l>
+<l>NOOOOOO...</l>
+<l>LEAVE ME ALONE!</l>
+<l>Who are you?</l>
+<l>I'd rather be around a lot of people, Mama Riley.</l>
+<l>It's never gonna stop. Is it?</l>
+<l>Somebody called me, Dewey. I'm not making it up.</l>
+<l>And my Dad? Any word on him?</l>
+<l>Just a sec... I need to talk to someone.</l>
+<l>I'm not here to fight.</l>
+<l>I want to talk to you.</l>
+<l>Off the record. No cameras.</l>
+<l>Please. You owe me.</l>
+<l>You owe my mother.</l>
+<l>And it had to be you with all your lies and bullshit theories.</l>
+<l>Do you still think he's innocent?</l>
+<l>During the trial, you did all those stories about me. You called me a liar.</l>
+<l>Have you talked to Cotton?</l>
+<l>Has his story changed?</l>
+<l>He's lying. She wouldn't have touched him. He raped her, then butchered her. Her blood was all over his coat.</l>
+<l>I saw him leaving wearing it.</l>
+<l>No, Cotton murdered my mother.</l>
+<l>No, it was Cotton.</l>
+<l>I'm sorry I mangled your face.</l>
+<l>But if it wasn't Billy it could be anybody. He could be here at school right now.</l>
+<l>He promised me he'd be back.</l>
+<l>This is a mistake. I shouldn't be here.</l>
+<l>I bet he's pissed.</l>
+<l>Why are they doing this?</l>
+<l>Jesus, SHIT!</l>
+<l>No... I don't... it's just... Oh God, Billy, someone was there, someone tried to kill me.</l>
+<l>I know. He called again last night at Tatum's house.</l>
+<l>I'm so sorry... please understand.</l>
+<l>You know that's not true.</l>
+<l>No...</l>
+<l>No, it's me, Billy. I need time. I'm still adjusting to my mom.</l>
+<l>Tomorrow. One year tomorrow.</l>
+<l>Your parents split up. It's not the same thing. Your mom left town, she's not in a coffin somewhere.</l>
+<l>I'm glad to know you're coping so well with life, Billy. But some of us aren't so perfect. Some of us are just trying to hold on.</l>
+<l>Pathetic.</l>
+<l>Is someone there?</l>
+<l>He's here... I saw him... he's here...</l>
+<l>It was him, Tatum. I know it.</l>
+<l>Are you serious?</l>
+<l>I don't know...</l>
+<l>Yeah, okay... whatever.</l>
+<l>So you think my mom was a slut too?</l>
+<l>If they were having an affair how come that Cotton couldn't prove it in court?</l>
+<l>Created by that little tabloid twit Gale Weathers.</l>
+<l>And you believe it?</l>
+<l>If I was wrong Cotton, then he's still out there.</l>
+<l>You're right. I'm cracking up. Ignore me.</l>
+<l>God, look at this place, it's THE TOWN THAT DREADED SUNDOWN.</l>
+<l>Oh, god...</l>
+<l>Thanks, Dewey. But with my luck they'd cast Tori Spelling.</l>
+<l>Is Billy going to be there tonight?</l>
+<l>Billy's right. Whenever he touches me, I just can't relax.</l>
+<l>But he's been so patient with me, Tatum. You know, with all the sex stuff. How many guys would put up with a girlfriend who's sexually anorexic?</l>
+<l>What do you think about when you're having sex?</l>
+<l>Who?</l>
+<l>How does that get you in the mood with Stu?</l>
+<l>No way.</l>
+<l>What secret meaning? Like a Satanical thing?</l>
+<l>TATUM!</l>
+<l>Deal.</l>
+<l>Yeah.</l>
+<l>THE FOG, TERROR TRAIN, PROM NIGHT -- How come Jamie Lee Curtis is in all these movies?</l>
+<l>Have they found my father?</l>
+<l>Should I be worried?</l>
+<l>Billy? Jesus, you scared me.</l>
+<l>If Tatum sees you -- she'll draw blood.</l>
+<l>It's okay. We need to talk.</l>
+<l>So...</l>
+<l>No, Billy. I'm the one who's been selfish and self-absorbed with all of my post traumatic stress.</l>
+<l>But you're right -- enough is enough. I can't wallow in the grief process forever and I can't keep lying to myself about who my mom was.</l>
+<l>I think in some weird analytical, psychological bullshit way I'm scared I'm gonna turn out just like her, you know? Like the bad seed or something...</l>
+<l>Everytime I get close to you I see my mom. I know it doesn't make sense.</l>
+<l>But this is life. This isn't a movie.</l>
+<l>I wanna let go. I do...</l>
+<l>Why can't I be a Meg Ryan movie?</l>
+<l>Or even a good porno.</l>
+<l>You heard me.</l>
+<l>Yeah... I think so.</l>
+<l>"Eight is enough to fill our lives with love..."</l>
+<l>Who did you call?</l>
+<l>When you're arrested - you're allowed one phone call? Who did you call?</l>
+<l>No, Sheriff Burke called your dad. I saw him.</l>
+<l>Uh-huh.</l>
+<l>No, but if it were you, that would have been a very clever way to throw me off track. Using your one phone call to call me so I wouldn't think it was you.</l>
+<l>BILLY WATCH OUT!!!!</l>
+<l>DEWEY!</l>
+<l>NOOOOOOOO!!!!!</l>
+<l>Help! Please! I'm at Stu Maker's house on Turner Lane. Please, HE'S GONNA KILL ME!</l>
+<l>Stop. Right there.</l>
+<l>Don't come any closer.</l>
+<l>Stay away.</l>
+<l>Fuck you both.</l>
+<l>Please! God! Help me!</l>
+<l>NOOOOOOOOO!!!</l>
+<l>GO AWAY LEAVE ME ALONE!</l>
+<l>Oh God. Billy!</l>
+<l>I thought you were...</l>
+<l>He's out there.</l>
+<l>NO! Don't believe him.</l>
+<l>Stu... please... help me...</l>
+<l>What's wrong? You look like you've seen a ghost.</l>
+<l>Daddy!</l>
+<l>Why are you doing this?</l>
+<l>Fuck you.</l>
+<l>You're crazy -- both of you.</l>
+<l>Why did you kill my mother?</l>
+<l>I don't understand...</l>
+<l>What?</l>
+<l>Stop it!</l>
+<l>You sick fucks -- you've seen one too many movies.</l>
+<l>I like that ending.</l>
+<l>Are you alone in the house?</l>
+<l>Not so fast. We're gonna play a little game. It's called GUESS WHO JUST CALLED THE POLICE AND REPORTED YOUR SORRY MOTHERFUCKING ASS?</l>
+<l>So Stu, what's your motive? Billy's got one. The police are on their way. What are you going to tell them?</l>
+<l>Gotta find me first, you pansy-assed Mama's boy.</l>
+<l>Not this time.</l>
+<l>This is for my Mom, asshole.</l>
+<l>And this Billy stud-bucket is for having an incredibly small weenie.</l>
+<l>Oh Daddy...</l>
+<l>Only if it's a nice Meg Ryan movie.</l>
+<d>(whispering).</d>
+<d>(quiet, almost to herself).</d>
+<d>(into phone).</d>
+<d>(eyes clock).</d>
+<d>(into phone).</d>
+<d>(playing along).</d>
+<d>(correcting him).</d>
+<d>(sharply).</d>
+<d>(crying).</d>
+<d>(giving in).</d>
+<d>(surprising herself).</d>
+<d>(to herself).</d>
+<d>(at the door).</d>
+<d>(fighting tears).</d>
+<d>(from phone).</d>
+<d>(aware).</d>

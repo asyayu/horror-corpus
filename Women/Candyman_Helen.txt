@@ -1,0 +1,278 @@
+<l>Thank you.</l>
+<l>Oh... sorry.</l>
+<l>Another dead end?</l>
+<l>100 per cent chicken. Sorry.</l>
+<l>Maybe... but we'd get that slob Purcell right where he lives.</l>
+<l>Trevor thinks they're going to make him head of the anthropology department. It's unbelievable. His data is so secondhand...</l>
+<l>And you and I are gonna nail him.</l>
+<l>Hi honey.</l>
+<l>That girl, is she alright? She wouldn't look at me and I swear she was blushing.</l>
+<l>Bighead.</l>
+<l>Any news on Purcell?</l>
+<l>He got the job.</l>
+<l>He makes my flesh crawl.</l>
+<l>Hello...</l>
+<l>Sure. Don't mind me.</l>
+<l>You've heard of him?</l>
+<l>Um... yes. What do you know about
+him?</l>
+<l>Cabrini Green?</l>
+<l>Could I talk to your friend?</l>
+<l>I'm Helen Buchanan.</l>
+<l>Kitty... it may not seem much to you, but I'd really like to know...</l>
+<l>Do you know her name?</l>
+<l>She was shot?</l>
+<l>Look...</l>
+<l>That's not the half of it.</l>
+<l>That's Cabrini Green, not that you'd recognize it now.</l>
+<l>Look carefully at this picture... and then this one... spot it?</l>
+<l>That's not Cabrini Green. That's this building... Sandburgh Village! My apartment was built as a housing project.</l>
+<l>Once it was finished, the city soon realized that there was no barrier between here and the Gold Coast; no freeway or El Train to keep the ghetto cut off... So they did some minor alterations, clad the cinderblock in plaster and sold the lot off as condos.</l>
+<l>Well they did. Come here...</l>
+<l>Here's the proof.</l>
+<l>It's all in the article about Ruthie Mae's murder... The killer, or killers, they don't know which, smashed his way through the back of the cabinet...</l>
+<l>There's no wall there. One piece of plywood separating us from next door.</l>
+<l>Look.</l>
+<l>It's okay. The apartment's vacant.</l>
+<l>What's wrong?</l>
+<l>There can't be.</l>
+<l>There's more. They even printed the address... Apartment 404 is where it all happened. We finally have a trail to follow...</l>
+<l>Ready? Candyman!</l>
+<l>Chicken...</l>
+<l>What time is it?</l>
+<l>What's with the arsenal? We're only going eight blocks.</l>
+<l>I said dress smartly.</l>
+<l>Let's stop and ask.</l>
+<l>Building "Z"... this is it.</l>
+<l>Let's go.</l>
+<l>What d'you think's going to happen? They're going to shoot you? Rape you?</l>
+<l>Then let's go.</l>
+<l>With the cheeks of your ass stapled together.</l>
+<l>Hi.</l>
+<l>The walk sold it.</l>
+<l>Hello... I'm sorry if I --.</l>
+<l>Here it is...</l>
+<l>Hello...</l>
+<l>See... I was right. The layout is identical... This must be the bathroom...</l>
+<l>What's the problem?</l>
+<l>It's okay... there's nothing to see.</l>
+<l>Wait a minute...</l>
+<l>Alright...</l>
+<l>Just help me up and as soon as I get back we'll be out of here.</l>
+<l>It's just a derelict apartment.</l>
+<l>You want to nail Purcell or not?</l>
+<l>Help me up.</l>
+<l>I promise I'll be quick.</l>
+<l>Idiot.</l>
+<l>Bernadette --.</l>
+<l>I've got to go back... ran out of film...</l>
+<l>Who --?</l>
+<l>We're not cops. We're from the University.</l>
+<l>I'm Helen Buchanan, and this is Bernadette Walsh. We're working on a thesis. We'd like to talk to you if you have the time...</l>
+<l>No... Here... It'd only take five minutes...</l>
+<l>Believe me, that's the last thing we'd want to do.</l>
+<l>He's a beautiful boy.</l>
+<l>What's his name?</l>
+<l>I'm sorry if we disturbed you.</l>
+<l>Let me help.</l>
+<l>No. I'd love one though.</l>
+<l>Yes.</l>
+<l>Who?</l>
+<l>We're not ready.</l>
+<l>Actually, Purcell, I think we're about to bury you.</l>
+<l>How did you know that we'd traced the legend to Cabrini?</l>
+<l>No.</l>
+<l>Candyman...</l>
+<l>Oh. Are you sure?</l>
+<l>What's your name?</l>
+<l>Listen, Jake, I'm Helen. Maybe you can help me. There are some things I need to know about the lady who got killed.</l>
+<l>Do you kriow anything about that?</l>
+<l>Her name was Ruthie Mae.</l>
+<l>Didn't anyone talk about it?</l>
+<l>Jake, it's okay to tell me. I'm not a cop. Nobody will get in trouble.</l>
+<l>Candyman?</l>
+<l>Are you scared of him?</l>
+<l>I don't scare easy either, Jake. You don't have to tell me anything.</l>
+<l>Just show me... show me where I can find Candyman. And I'll make a promise to you. It'll be our secret.</l>
+<l>You sure you ain't scared?</l>
+<l>Somebody building a bonfire?</l>
+<l>Candyman is in there?</l>
+<l>Who was it?</l>
+<l>Crazy?</l>
+<l>He was murdered?</l>
+<l>Did Candyman do this?</l>
+<l>Wait here.</l>
+<l>Excuse me guys. I'm done here. I'll be out of your way.</l>
+<l>I'm not interested in your business. I'm from the University of Illinois. I don't want to interfere, or cause you any kind of problem...</l>
+<l>Don't touch me, asshole!!</l>
+<l>You are not being smart. My colleagues know where I am. I am expected back. You fuck with me and so much heat will come down...</l>
+<l>Number six.</l>
+<l>How did you catch him?</l>
+<l>Oh.</l>
+<l>What about the boy, Jake?</l>
+<l>I wanted to thank you Jake... for saving my life.</l>
+<l>It is Jake. You don't have to go to court.</l>
+<l>Candyman isn't real. It's just a story. Like Frankenstein or Dracula. A bad guy took his name to scare you. He's locked up now and everything will be alright.</l>
+<l>I feel much better.</l>
+<l>You've already eaten?</l>
+<l>You sure you don't want desert?</l>
+<l>Don't worry, it'll keep. That's not what I was thinking.</l>
+<l>The look on that kid's face when I told him that Candyman didn't exist. It was like he just found out the truth about Santa Claus.</l>
+<l>You know what bothers me about the whole thing? Two people get brutally murdered, and the cops do nothing. A white woman gets attacked and they lock the place down. Kind of shows their priorities, eh?</l>
+<l>The photos?</l>
+<l>I'd written them off, the camera was so smashed...</l>
+<l>We did it, didn't we?</l>
+<l>See you there.</l>
+<l>Yes?</l>
+<l>Do I know you?</l>
+<l>I'm sorry. I have to go.</l>
+<l>I'm late ...</l>
+<l>No! Stop! Stop!</l>
+<l>Stop! Calm down!!</l>
+<l>Wha-</l>
+<l>Could I shower?</l>
+<l>I want to speak to Detective Valento.</l>
+<l>Frank... I have to talk to you...</l>
+<l>Please, let me explain...</l>
+<l>Yes, but listen --.</l>
+<l>This is crazy. I was attacked.</l>
+<l>r understand... look, Frank, he came after me, he's trying to kill me...</l>
+<l>I... I --.</l>
+<l>I... I want to make a phone call.</l>
+<l>Trevor... are you there? ... Pick up!</l>
+<l>It's three a.m., where is he?</l>
+<l>Do you think I did it?</l>
+<l>But it's crossed your mind.</l>
+<l>I saw him... he threatened me and I blacked out. I... I don't know what happened. When I woke up I was in that place... and there was blood everywhere...</l>
+<l>I think he's trying to destroy me...</l>
+<l>No, it's okay.</l>
+<l>Trevor...</l>
+<l>Where were you last night?</l>
+<l>I needed you and you weren't there.</l>
+<l>You promise?</l>
+<l>You go. I'll be fine.</l>
+<l>Proof... I need proof...</l>
+<l>Get out of my house!</l>
+<l>What do you think?</l>
+<l>Keep away from me!!</l>
+<l>No.</l>
+<l>Oh God... no... no...</l>
+<l>Get out of here!! Run!! He's here!!</l>
+<l>GET OUT OF HERE!!! NOW!!!</l>
+<l>NOOOOO!!!! NOOOOOO!!!!!</l>
+<l>Trevor... he's here... he's here...</l>
+<l>Don't let him kill me.</l>
+<l>Trevor...</l>
+<l>Trevor...</l>
+<l>What --?</l>
+<l>Get off me...</l>
+<l>Trevor...</l>
+<l>Where are we going?</l>
+<l>Hold me Trevor. Hold me.</l>
+<l>He's going to kill the baby.</l>
+<l>He's going to kill the baby.</l>
+<l>Trevor!</l>
+<l>Trevor!</l>
+<l>Hey! What is this!!?</l>
+<l>Stop!!</l>
+<l>You can't do this!!! He'll come for me!!!</l>
+<l>I can't defend myself!!!</l>
+<l>HE'S HERE!! HELP ME!!</l>
+<l>SOMEBODY HELF ME!!!!</l>
+<l>GET OFF ME!!!</l>
+<l>MURDERER!!!</l>
+<l>I will destroy you. You are evil.</l>
+<l>HE'S HERE!!! HE'S HERE!!!</l>
+<l>HELF ME!!! HE'S UNDER THE BED!!!</l>
+<l>I want to speak to my husband...</l>
+<l>How long have I been out?</l>
+<l>I want to see my husband.</l>
+<l>What?! Have I been sectioned? How long have I been here?</l>
+<l>A month?!</l>
+<l>Get me my attorney.</l>
+<l>That's absurd!</l>
+<l>He broke in... through the medicine cabinet.</l>
+<l>...poor Bernadette...</l>
+<l>That's wrong. I saw him. I...</l>
+<l>I am not hallucinating.</l>
+<l>Yes.</l>
+<l>HE'S HERE! HELF ME!! SOMEBODY HELP ME!!</l>
+<l>I killed my best friend... she trusted me... she loved me... I cut her open... I... it's not possible... it's...</l>
+<l>Whatever is happening to me... whatever is going wrong, I know one thing. I am not capable of that. No part of me, however hidden, could do that...</l>
+<l>I can prove it.</l>
+<l>I can call him.</l>
+<l>Candyman...</l>
+<l>Be home, Trevor... please be home...</l>
+<l>Get out of my home.</l>
+<l>I live here. Remember?</l>
+<l>Don't touch that!</l>
+<l>Scared of something, Trevor?</l>
+<l>I hate the color scheme.</l>
+<l>What were you going to do Trevor? Wait till I got out before you told me?</l>
+<l>You knew I was never coming out. Didn't you?</l>
+<l>If that's what you want, go on, do it.</l>
+<l>I'm not a murderer... I'm not... You're all I had left... it's over...</l>
+<l>Never...</l>
+<l>The child... we had a deal.</l>
+<l>No... wait... please...</l>
+<l>I'm afraid.</l>
+<l>Both...</l>
+<l>I don't want to be remembered that way. I want to be forgotten...</l>
+<l>Noooooo!!!! Noooooo!!!!</l>
+<l>Stop...</l>
+<l>It was always you...</l>
+<l>It's okay... I'm here... it's okay...</l>
+<l>HELP ME!!! GOD HELP ME!!!</l>
+<l>You promised me...</l>
+<l>We made a deal...</l>
+<l>See her! See her face!! You lied to me!!</l>
+<l>Let me go!!</l>
+<l>We made a deal!!</l>
+<l>No!</l>
+<l>Out of the eater came forth meat... Out of the strong came forth sweetness. I came for you.</l>
+<d>(seeing they are busy).</d>
+<d>(laughing at her).</d>
+<d>(changing the subject).</d>
+<d>(proffering her hand).</d>
+<d>(she turns the page).</d>
+<d>(she hands the papers to Bernadette).</d>
+<d>(she raps the back of the cabinet with her knuckles).</d>
+<d>(laughing).</d>
+<d>(chanting together, giggling).</d>
+<d>(seeing the sign on the building).</d>
+<d>(grinning).</d>
+<d>(referring to the hole in the cabinet).</d>
+<d>(extending her hand).</d>
+<d>(she hands AnneMarie her card).</d>
+<d>(quiet).</d>
+<d>(pause).</d>
+<d>(pause).</d>
+<d>(in control of her fear).</d>
+<d>(aggressive).</d>
+<d>(Helen frowns).</d>
+<d>(taking the slides).</d>
+<d>(friendly).</d>
+<d>(still friendly).</d>
+<d>(wary).</d>
+<d>(trying to back away).</d>
+<d>(indicating her bloodstained clothes).</d>
+<d>(relieved).</d>
+<d>(confused).</d>
+<d>(through phone).</d>
+<d>(quiet).</d>
+<d>(pause).</d>
+<d>(croaking).</d>
+<d>(barely audible).</d>
+<d>(shouting).</d>
+<d>(panicking).</d>
+<d>(shouting after them).</d>
+<d>(screaming).</d>
+<d>(still standing).</d>
+<d>(quiet).</d>
+<d>(she starts to cry).</d>
+<d>(she sits).</d>
+<d>(a faint plea).</d>
+<d>(quiet).</d>
+<d>(whispering).</d>
+<d>(her lungs choking).</d>
+<d>(softly, seduction).</d>
